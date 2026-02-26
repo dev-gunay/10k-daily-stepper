@@ -1,4 +1,5 @@
 <img width="547" height="435" alt="image" src="https://github.com/user-attachments/assets/d970501e-ed46-413e-b6b8-6b88fc648563" />
+
 # 🏃 Weekly Step Tracker
 
 A minimalistic web app to track weekly step goals.
